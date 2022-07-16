@@ -1,0 +1,4 @@
+{
+    "solidity.defaultCompiler": "localFile",
+    // "solidity.packageDefaultDependenciesDirectory": "/Users/tugoph/Documents/Documents - Tugoph’s MacBook Pro/GitHub/Game Contracts/demo/node_modules"
+}
